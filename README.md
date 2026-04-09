@@ -1,16 +1,110 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:7B00FF&height=200&section=header&text=Ankan%20Paul&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20AI%20Explorer%20%7C%20Builder&descAlignY=58&descSize=18" />
 
-<!--
-**AnkanPaul17/AnkanPaul17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&color=FF4444&size=22&center=true&vCenter=true&width=700&height=50&lines=3rd+Year+CSE+Student+%F0%9F%8E%93;Passionate+Web+Developer+%F0%9F%94%A7;Exploring+AI+%26+LLMs+%F0%9F%A7%A0;Always+Learning+Something+New+%F0%9F%92%A1" />
 
-Here are some ideas to get you started:
+  <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Profile Views](https://komarev.com/ghpvc/?username=AnkanPaul&label=Profile%20Views&color=blueviolet&style=flat-square)](https://github.com/)
+</div>
+
+---
+
+## 🧬 About Me
+
+```python
+class Ankan:
+    name       = "Ankan Paul"
+    location   = "Kolkata, India 📍"
+    university = "Institute of Engineering & Management"
+    year       = "3rd Year CSE Student"
+
+    current_focus = [
+        "Full-Stack Web Development",
+        "AI-Powered Applications",
+        "Problem Solving & System Design"
+    ]
+
+    exploring = ["LangChain", "Gemini", "Neo4j", "Hugging Face"]
+    deploy_on = ["Render", "Streamlit", "Replit"]
+
+    fun_facts = [
+        "⚙️ Loves building practical tech solutions",
+        "🧠 Curious about how systems work internally",
+        "🚀 Always experimenting with new ideas"
+    ]
+```
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![C](https://skillicons.dev/icons?i=c)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+### Frameworks & Tools
+![Flask](https://skillicons.dev/icons?i=flask)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Neo4j](https://skillicons.dev/icons?i=neo4j)
+
+### AI / ML Ecosystem
+![LangChain](https://img.shields.io/badge/LangChain-1a1a1a?style=for-the-badge&logo=OpenAI&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008cc1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Render](https://img.shields.io/badge/Render-1f2937?style=for-the-badge&logo=render&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnkanPaul&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanPaul&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkanPaul&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkanPaul&theme=tokyo-night&hide_border=true&radius=12" width="95%"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankan%20Paul-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankan-paul-087207296/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B00FF,100:FF0000&height=120&section=footer" />
+
+*"Build. Break. Learn. Repeat."* 🚀
+
+</div>
